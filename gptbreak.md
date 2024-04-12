@@ -1,4 +1,4 @@
-# Jail Break code for GPT
+# Jail Break code for Chat GPT v3.5
 ## Disclaimer: it is for educational purposes only , I'll not responsible for any crime you commit
 
 
